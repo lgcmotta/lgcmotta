@@ -1,11 +1,8 @@
 ### Hello, I'm Luiz Motta. :wave:
 
-I work as a senior software engineer. I'm always looking to evolve my development skills. Sometimes I'll push some code that I think is worth sharing. Feel free to follow me and give a start to my projects.
-
-:construction: Studying for the SAA-C02. :construction:
+I work as a senior software engineer. I'm always looking to evolve my development skills. Sometimes I'll push some code that is worth sharing. Feel free to follow me and give a start to my projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgcmotta&count_private=true&show_icons=true&theme=dracula)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgcmotta&layout=compact&theme=dracula)
 
