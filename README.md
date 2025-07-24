@@ -44,9 +44,12 @@
   <a href="https://www.credly.com/badges/b99faae3-92b8-4a6f-9d38-2d1ace0736b0">
     <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Solutions Architect – Associate" width="120"/>
   </a>
-	<a href="https://www.udemy.com/certificate/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde">
-		<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde.jpg?v=1753063447000" alt="Docker para Desenvolvedores (com Docker Swarm e Kubernetes)" width="120">
-	</a>
+  <a href="https://www.udemy.com/certificate/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e938e9f7-fd1e-4596-a353-b8ce93f1cbde.jpg?v=1753063447000" alt="Docker para Desenvolvedores (com Docker Swarm e Kubernetes)" width="120">
+  </a>
+	<a href="https://www.udemy.com/certificate/UC-ad32da2c-e7ba-4e18-ad67-ce1810a3361e">
+    <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ad32da2c-e7ba-4e18-ad67-ce1810a3361e.jpg?v=1753393949000" width="120">
+  </a>
 </p>
 
 ## 📊 Stats
