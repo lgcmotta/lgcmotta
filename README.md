@@ -49,11 +49,6 @@
   </a>
 </p>
 
-## 📊 Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgcmotta&rank_icon=github&count_private=true&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgcmotta&layout=compact&theme=dracula)
-
 ## 📚 Writing & Talks
 
 ### Vertical Slice Architecture in .NET  
