@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="AWS" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4?size=40" alt="dotnet" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/go/00ADD8?size=40" alt="Go" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6?size=40" alt="TypeScript" width="40" height="40" />
