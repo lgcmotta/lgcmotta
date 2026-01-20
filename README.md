@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- 🔹 Architect @ _Ambevtech_
+- 🔹 .NET Specialist | Senior Software & Platform Engineer
 - 🔹 Independent consultant: **.NET · AWS · IaC**
 - 🔹 Guiding teams in DDD, event-driven systems & vertical-slice architecture
 - 🔹 Exploring AI assistants to enhance performance & DX
